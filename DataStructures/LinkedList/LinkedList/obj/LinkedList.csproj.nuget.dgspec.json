@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\Arrays\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectName": "LinkedList",
+        "projectPath": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\MyDataStructures\\AlgoRepository\\DataStructures\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
